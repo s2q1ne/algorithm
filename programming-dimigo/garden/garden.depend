@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544115301 source:d:\p-th\code_block_projects\programming-dimigo\garden\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536929507 source:d:\p-th\code_block_projects\programming-dimigo\asndajsdn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

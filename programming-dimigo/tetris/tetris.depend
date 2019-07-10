@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542008015 source:d:\p-th\code_block_projects\programming-dimigo\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+

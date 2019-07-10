@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544076004 source:d:\p-th\code_block_projects\programming-dimigo\game_project\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<Windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<mmsystem.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544962764 source:d:\p-th\code_block_projects\programming-dimigo\re\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

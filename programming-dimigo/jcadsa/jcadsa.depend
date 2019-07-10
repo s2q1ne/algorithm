@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534496367 source:d:\p-th\code_block_projects\programming-dimigo\jcadsa\main.c
+	<stdio.h>
+	<stdlib.h>
+

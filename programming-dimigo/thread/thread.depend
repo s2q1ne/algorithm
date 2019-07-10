@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543481749 source:d:\p-th\code_block_projects\programming-dimigo\thread\main.c
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<time.h>
+	<conio.h>
+	<pthread.h>
+	<string.h>
+	<math.h>
+

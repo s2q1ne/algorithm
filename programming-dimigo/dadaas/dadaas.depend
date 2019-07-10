@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536916005 source:d:\p-th\code_block_projects\programming-dimigo\dadaas\main.c
+	<stdio.h>
+	<stdlib.h>
+

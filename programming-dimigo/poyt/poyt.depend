@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524224065 source:d:\p-th\code_block_projects\programming-dimigo\poyt\main.c
+	<stdio.h>
+	<stdlib.h>
+

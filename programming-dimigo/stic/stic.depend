@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526036935 source:d:\p-th\code_block_projects\programming-dimigo\stic\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

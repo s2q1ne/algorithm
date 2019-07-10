@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529675051 source:d:\p-th\code_block_projects\programming-dimigo\empty2\main.cpp
+	<cstdio>
+	<vector>
+	<queue>
+	<algorithm>
+

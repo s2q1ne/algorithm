@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530268460 source:d:\p-th\code_block_projects\programming-dimigo\gugudan\main.c
+	<stdio.h>
+	<stdlib.h>
+

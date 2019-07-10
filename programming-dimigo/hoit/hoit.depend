@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524221204 source:d:\p-th\code_block_projects\programming-dimigo\hoit\main.c
+	<stdio.h>
+	<stdlib.h>
+

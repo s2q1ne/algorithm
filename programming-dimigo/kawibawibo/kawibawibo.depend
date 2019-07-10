@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522476820 source:d:\p-th\code_block_projects\programming-dimigo\kawibawibo\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

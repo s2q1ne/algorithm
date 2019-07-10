@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523003463 source:d:\p-th\code_block_projects\programming-dimigo\ojum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
